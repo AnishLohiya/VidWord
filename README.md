@@ -25,10 +25,8 @@ Check out Vidword in action: [Link](https://www.loom.com/share/a7d516c8ec1d41cea
 
 ```bash
 git clone https://github.com/AnishLohiya/VidWord.git
-```
 
 cd vidword
-
 ```
 
 ## Deployment 🚀
